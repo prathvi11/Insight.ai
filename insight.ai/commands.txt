@@ -1,0 +1,3 @@
+Set-ExecutionPolicy Unrestricted -Scope Process
+
+pip install -r requirements.txt
